@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/orcl/product/11.2.0/dbhome_1/jdbc/lib/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="E:/尚学堂 课程/课程/AccountNote/文档/Javase 美化包/java程序界面美化包substance.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
